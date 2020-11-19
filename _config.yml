@@ -3,7 +3,7 @@ title: RAOYI
 subtitle: RaoYi's Blog
 description: RaoYi's Blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://raoyi.net/" # 你的网址
+url: "http://raoyi.net" # 你的网址
 domain: "raoyi.net" # 你的域名
 page_no_title: "No title" # 文章无标题时默认显示内容
 beian: # "备案号"
