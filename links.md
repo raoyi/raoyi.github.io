@@ -11,6 +11,7 @@ permalink: /links/
 <p><a rel="nofollow" href="https://mirrors.huaweicloud.com" target="_blank">华为开源镜像站</a></p>
 <p><a rel="nofollow" href="https://developer.aliyun.com/tool" target="_blank">阿里云开发者工具</a></p>
 <p><a rel="nofollow" href="https://man.linuxde.net" target="_blank">Linux命令大全</a></p>
-<p><a rel="nofollow" href="https://linux.vbird.org" target="_blank">鸟哥Linux（真有点啰嗦）</a></p>
+<p><a rel="nofollow" href="https://linux.vbird.org" target="_blank">鸟哥Linux</a></p>
 <p><a rel="nofollow" href="http://www.ai-start.com" target="_blank">机器学习初学者</a></p>
 <p><a rel="nofollow" href="http://www.jinbuguo.com" target="_blank">金步国</a></p>
+<p><a rel="nofollow" href="https://icomoon.io/app" target="_blank">IcoMoonApp</a></p>
