@@ -13,6 +13,7 @@ email: hi@raoyi.net
 permalink: /:year/:month/:day/:title/
 exclude: ["README.md", "changelog.md", "server", "tools", "Pipfile"]
 plugins: [jekyll-paginate]
+auto: true
 markdown: redcarpet
 redcarpet:
     extensions: ["fenced_code_blocks",
@@ -24,6 +25,7 @@ redcarpet:
 
 # Pageinate settings
 page_size: 10 # 分页大小
+paginate: 10
 paginate_path: ":num"
 
 # Search settings
