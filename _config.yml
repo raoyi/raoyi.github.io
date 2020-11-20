@@ -1,7 +1,7 @@
 # Site settings
 title: RAOYI
-subtitle: RaoYi's Blog
-description: RaoYi's Blog
+subtitle: Debris collection
+description: RaoYi's page
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://raoyi.net" # 你的网址
 domain: "raoyi.net" # 你的域名
