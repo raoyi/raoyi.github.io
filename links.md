@@ -11,8 +11,8 @@ permalink: /links/
   <tr>
     <td width="25%"><a rel="nofollow" href="https://mofanpy.com" target="_blank">莫烦Python</a></td>
     <td width="25%"><a rel="nofollow" href="https://www.liaoxuefeng.com/wiki/1016959663602400" target="_blank">廖雪峰</a></td>
+    <td width="25%"><a rel="nofollow" href="http://www.python3.vip/" target="_blank">白月黑羽教Python</a></td>
     <td width="25%"><a rel="nofollow" href="http://www.ai-start.com" target="_blank">机器学习初学者</a></td>
-    <td width="25%"></td>
   </tr>
 </table>
 
