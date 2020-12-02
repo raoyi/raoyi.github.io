@@ -23,8 +23,8 @@ permalink: /links/
   <tr>
     <td width="25%"><a rel="nofollow" href="https://mirrors.huaweicloud.com" target="_blank">华为开源镜像站</a></td>
     <td width="25%"><a rel="nofollow" href="https://developer.aliyun.com/tool" target="_blank">阿里云开发者工具</a></td>
-    <td width="25%"></td>
-    <td width="25%"></td>
+    <td width="25%"><a rel="nofollow" href="https://mirrors.ustc.edu.cn/" target="_blank">科大开源镜像站</a></td>
+    <td width="25%"><a rel="nofollow" href="https://mirrors.tuna.tsinghua.edu.cn/" target="_blank">清华开源镜像站</a></td>
   </tr>
 </table>
 
