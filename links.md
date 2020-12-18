@@ -47,7 +47,7 @@ permalink: /links/
   <tr>
     <td width="25%"><a rel="nofollow" href="https://www.iconfont.cn/" target="_blank">Iconfont</a></td>
     <td width="25%"><a rel="nofollow" href="https://icomoon.io/app" target="_blank">IcoMoonApp</a></td>
-    <td width="25%"></td>
+    <td width="25%"><a rel="nofollow" href="https://shields.io/" target="_blank">Shields.io</a></td>
     <td width="25%"></td>
   </tr>
 </table>
