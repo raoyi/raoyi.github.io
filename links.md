@@ -26,6 +26,12 @@ permalink: /links/
     <td width="25%"><a rel="nofollow" href="https://mirrors.ustc.edu.cn/" target="_blank">科大开源镜像站</a></td>
     <td width="25%"><a rel="nofollow" href="https://mirrors.tuna.tsinghua.edu.cn/" target="_blank">清华开源镜像站</a></td>
   </tr>
+  <tr>
+    <td width="25%"><a rel="nofollow" href="http://staticfile.org/" target="_blank">Staticfile CDN</a></td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+  </tr>
 </table>
 
 <table width="100%" border="0">
