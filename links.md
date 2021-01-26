@@ -41,8 +41,7 @@ permalink: /links/
   <tr>
     <td width="25%"><a rel="nofollow" href="https://man.linuxde.net" target="_blank">Linux命令大全</a></td>
     <td width="25%"><a rel="nofollow" href="https://linux.vbird.org" target="_blank">鸟哥Linux</a></td>
-    <td width="25%"><a rel="nofollow" href="https://www.kancloud.cn/thinkphp/linux-command-line/39431" target="_blank">The Linux Command Line中文版</a> PDF <a rel="nofollow" href="./linksadd/TheLinuxCommandLineCN.pdf" target="_blank">CN</a>/<a rel="nofollow" href="./linksadd/TheLinuxCommandLineEN.pdf" target="_blank">EN</a></td>
-    <td width="25%"></td>
+    <td width="50%"><a rel="nofollow" href="https://www.kancloud.cn/thinkphp/linux-command-line/39431" target="_blank">《The Linux Command Line》中文版</a> (PDF <a rel="nofollow" href="./linksadd/TheLinuxCommandLineCN.pdf" target="_blank">CN</a>/<a rel="nofollow" href="./linksadd/TheLinuxCommandLineEN.pdf" target="_blank">EN</a>)</td>
   </tr>
 </table>
 
