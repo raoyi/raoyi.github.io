@@ -10,7 +10,7 @@ permalink: /links/
   </tr>
   <tr>
     <td width="25%"><a rel="nofollow" href="https://www.harmonyos.com/" target="_blank">HarmonyOS官网</a></td>
-    <td width="25%"><a rel="nofollow" href="https://www.w3cschool.cn/harmonyos/" target="_blank">HarmonyOS教程-w3cschool</a></td>
+    <td width="25%"><a rel="nofollow" href="https://www.w3cschool.cn/harmonyos/" target="_blank">教程-w3cschool</a></td>
     <td width="25%"><a rel="nofollow" href="https://hmxt.org/" target="_blank">鸿蒙学堂</a></td>
     <td width="25%"><a rel="nofollow" href="https://www.bilibili.com/video/BV1mv411179B" target="_blank">视频教程</a></td>
   </tr>
