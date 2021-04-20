@@ -48,6 +48,18 @@ permalink: /links/
 
 <table width="100%" border="0">
   <tr>
+    <th width="25%">工具软件</th>
+  </tr>
+  <tr>
+    <td width="25%"><a rel="nofollow" href="https://typora.io/" target="_blank">Typora</a></td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+  </tr>
+</table>
+
+<table width="100%" border="0">
+  <tr>
     <th width="25%">Linux</th>
   </tr>
   <tr>
