@@ -10,6 +10,6 @@ permalink: /about/
 
 总之吧，自我判断：知识盲点多，时而觉得自己就是个文盲。
 
-如果你想联络我：admin at raoyi period net
+如果你想联络我：admin at raoyi dot net
 
 <a href="https://github.com/raoyi" target="_blank">GitHub</a> & <a href="https://gitee.com/raoyi" target="_blank">Gitee</a>
