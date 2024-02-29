@@ -13,7 +13,7 @@ permalink: /leetcode/
   <li><a href="https://leetcode.cn/circle/discuss/dHn9Vk/" target="_blank">位运算（基础/性质/拆位/试填/恒等式/贪心/脑筋急转弯）</a></li>
 </ul>
 
-<p><a href="https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/README.md" target="_blank">基础算法精讲·题目汇总</p>
+<p><a href="https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/README.md" target="_blank">基础算法精讲·题目汇总</a></p>
 <p><a href="https://www.bilibili.com/read/cv22332590/" target="_blank">如何科学上分</a></p>
 <p><a href="https://leetcode.cn/circle/discuss/jPBij8/" target="_blank">如何更加优雅地使用 LeetCode 刷题</a></p>
 <p><a href="https://leetcode.cn/circle/discuss/48kq9d/" target="_blank">有没有人一起从零开始刷力扣</a></p>
