@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  opencv笔记(Python)
+title:  OpenCV笔记(Python)
 date:   2020-11-28
-tags:   Python opencv
+tags:   Python OpenCV
 ---
 
 官方文档（英文）：https://docs.opencv.org/
