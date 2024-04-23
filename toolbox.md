@@ -1,0 +1,35 @@
+---
+layout: page
+title: ToolBox工具集
+permalink: /toolbox/
+---
+
+# Description
+
+这是一些工具软件的集合，包含：
+
+1. 开启 HTTP 服务（暂不支持 HTTPS 协议）
+
+2. Ping 目标地址指定端口
+
+持续更新及加入新功能...
+
+# ChangeLog
+
+- version: 24.04.22.1
+
+修复少量已知bug
+
+- version: 24.04.22
+
+1. 优化代码及外部资源
+
+2. 加入实时在线更新功能
+
+- version: 24.04.17
+
+初版发布
+
+# DownloadList
+
+
