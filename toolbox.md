@@ -18,7 +18,7 @@ permalink: /toolbox/
 
 - **version: 24.04.22.1**
 
-1. 修复少量已知bug
+  修复少量已知bug
 
 - **version: 24.04.22**
 
@@ -28,7 +28,7 @@ permalink: /toolbox/
 
 - **version: 24.04.17**
 
-初版发布
+  初版发布
 
 # DownloadList
 
