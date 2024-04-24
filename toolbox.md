@@ -7,7 +7,7 @@ permalink: /toolbox/
 - [Description](#Description)
 - [ChangeLog](#ChangeLog)
 - [DownloadList](#DownloadList)
-
+<hr />
 ## Description {#Description}
 
 这是一些工具软件的集合，包含：
@@ -31,7 +31,6 @@ permalink: /toolbox/
 - **version: 24.04.22**
 
   1. 优化代码及外部资源
-
   2. 加入实时在线更新功能
 
 - **version: 24.04.17**
