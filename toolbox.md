@@ -20,6 +20,10 @@ permalink: /toolbox/
 
 # ChangeLog {#ChangeLog}
 
+- **version: 24.04.24**
+
+  优化更新流程
+
 - **version: 24.04.22.1**
 
   修复少量已知bug
