@@ -16,17 +16,17 @@ permalink: /toolbox/
 
 # ChangeLog
 
-- version: 24.04.22.1
+- **version: 24.04.22.1**
 
-修复少量已知bug
+1. 修复少量已知bug
 
-- version: 24.04.22
+- **version: 24.04.22**
 
 1. 优化代码及外部资源
 
 2. 加入实时在线更新功能
 
-- version: 24.04.17
+- **version: 24.04.17**
 
 初版发布
 
