@@ -12,6 +12,6 @@ permalink: /about/
 
 本站文字内容遵循 <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a> 协议
 
-本站发布的软件内容 <b>可以 使用、传播（如用于宣传请注明出处），不可 反编译</b>
+本站发布的软件内容 <b>可以 使用、传播（如用于宣传请注明出处），不可 反编译</b> 对于没有开源的项目，如需源码请联系我
 
 <a href="https://github.com/raoyi" target="_blank">GitHub</a> & <a href="https://gitee.com/raoyi" target="_blank">Gitee</a>
