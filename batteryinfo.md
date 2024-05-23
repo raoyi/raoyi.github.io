@@ -8,7 +8,9 @@ permalink: /batteryinfo/
 - [ChangeLog](#ChangeLog)
 - [DownloadList](#DownloadList)
 - [OpenSource](#OpenSource)
+
 <hr />
+
 ## Description {#Description}
 
 这是一个实时监控电池信息和状态的工具，包含：
