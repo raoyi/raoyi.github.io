@@ -31,6 +31,6 @@ permalink: /batteryinfo/
 
 - [version 24.4.28](https://gitee.com/raoyi/battery/releases/download/24.4.28/BatteryInfo.exe)
 
-## OpenSource {OpenSource}
+## OpenSource {#OpenSource}
 
 [https://gitee.com/raoyi/battery](https://gitee.com/raoyi/battery)
