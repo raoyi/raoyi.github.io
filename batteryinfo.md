@@ -2,12 +2,14 @@
 layout: page
 title: 电池信息工具
 permalink: /batteryinfo/
+exclude_from_nav: true
 ---
 
 - [Description](#Description)
 - [ChangeLog](#ChangeLog)
 - [DownloadList](#DownloadList)
 - [OpenSource](#OpenSource)
+- [Others](#Others)
 
 <hr />
 
@@ -34,3 +36,7 @@ permalink: /batteryinfo/
 ## OpenSource {#OpenSource}
 
 [https://gitee.com/raoyi/battery](https://gitee.com/raoyi/battery)
+
+## Others {#Others}
+
+- 仅通过 Windows 平台测试

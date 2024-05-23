@@ -2,12 +2,14 @@
 layout: page
 title: ToolBox工具集
 permalink: /toolbox/
+exclude_from_nav: true
 ---
 
 - [Description](#Description)
 - [ChangeLog](#ChangeLog)
 - [DownloadList](#DownloadList)
 - [OpenSource](#OpenSource)
+- [Others](#Others)
 
 <hr />
 
@@ -50,3 +52,7 @@ permalink: /toolbox/
 ## OpenSource {#OpenSource}
 
 [https://gitee.com/raoyi/toolbox/](https://gitee.com/raoyi/toolbox/)
+
+## Others {#Others}
+
+- 仅通过 Windows 平台测试
