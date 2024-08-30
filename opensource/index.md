@@ -18,3 +18,4 @@ permalink: /opensource/
 
   可用于 类ChromeOS 的摄像头测试等
   
+- **TheLinuxCommandLine电子书 - [中文版](https://gitee.com/raoyi/filestack/raw/master/TheLinuxCommandLine/TheLinuxCommandLineCN.pdf) • [英文版](https://gitee.com/raoyi/filestack/raw/master/TheLinuxCommandLine/TheLinuxCommandLineEN.pdf)**
