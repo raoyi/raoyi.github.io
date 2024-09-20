@@ -64,7 +64,12 @@ tags:   Linux
 ### 改变所属群组（chgrp）
 
 ```
-chgrp [-R] dirname/filename ...
+chgrp [-R] 新组 文件名
+# 示例
+chgrp developers file.txt  # 修改file.txt的组为developers
+# 递归修改所有权
+chown -R alice:developers /path/to/directory
+chgrp -R developers /path/to/directory
 ```
 
 要被改变的组名必须包含在 `/etc/proup` 文件内
@@ -74,6 +79,9 @@ chgrp [-R] dirname/filename ...
 ```
 chown [-R] 账号名称 文件或目录
 chown [-R] 账号名称:组名 文件或目录
+# 示例
+chown alice file.txt  # 修改file.txt的所有者为alice
+chown alice:developers file.txt  # 修改file.txt的所有者为alice，组为developers
 ```
 
 用户必须是已经存在系统中的账号，即在 `/etc/passwd` 中有记录的用户名才能改变
@@ -102,12 +110,23 @@ chmod [-R] xyz 文件或目录
 
 #### 2. 符号类型改变文件权限
 
+```
+chmod [谁的权限][操作符][权限] 文件名
+```
+
+- 谁的权限：u（所有者），g（组），o（其他用户），a（所有人）。
+- 操作符：+（增加权限），-（删除权限），=（设置权限）。
+- 权限：r（读），w（写），x（执行）。
+
 |chmod|u（用户）<br>g（组）<br>o（其他）<br>a（所有人）<br>如要同时设置多个身份的权限，<br>使用逗号分隔即可|+（加入）<br>-（除去）<br>=（设定）|r<br>w<br>x|文件或目录|
 
 举例：
 
 ```
 chmod u=rwx,go=rx .bashrc
+chmod u+x file.txt  # 给所有者增加执行权限
+chmod g-w file.txt  # 删除组的写权限
+chmod a=r file.txt  # 设置所有人只有读权限
 ```
 
 |组件|内容|r|w|x|
