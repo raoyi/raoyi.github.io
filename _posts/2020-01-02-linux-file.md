@@ -137,3 +137,6 @@ chmod a=r file.txt  # 设置所有人只有读权限
 ### 改变文件属性（chattr）
 
 可以改变ext2文件系统中的文件或目录属性，[详情](https://www.runoob.com/linux/linux-comm-chattr.html)
+
+## 特殊权限
+
