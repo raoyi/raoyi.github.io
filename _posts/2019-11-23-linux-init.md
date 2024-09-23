@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Ubuntu root密码
+title:  Linux init的各种状态
 date:   2019-11-23
 tags:   Linux
 ---
