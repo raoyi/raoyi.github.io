@@ -138,5 +138,38 @@ chmod a=r file.txt  # 设置所有人只有读权限
 
 可以改变ext2文件系统中的文件或目录属性，[详情](https://www.runoob.com/linux/linux-comm-chattr.html)
 
-## 特殊权限
+### 特殊权限
 
+#### SUID 和 SGID
+
+- SUID（Set User ID）：应用于可执行文件，使该文件在执行时临时具有文件所有者的权限。表示为 `s`，如 `rwsr-xr-x`。
+
+设置 SUID 的命令示例：
+
+```
+chmod u+s file.txt
+```
+
+- SGID（Set Group ID）：应用于可执行文件或目录。对于文件，使文件在执行时临时具有文件所属组的权限。对于目录，强制新创建的文件继承该目录的组。表示为 `s`，如 `rwxr-sr-x`。
+
+设置 SGID 的命令示例：
+
+```
+chmod g+s file.txt
+```
+
+#### Sticky Bit
+
+Sticky Bit应用于目录，防止普通用户删除或修改其他用户的文件。表示为 `t`，如`rwxrwxrwt`。
+
+设置Sticky Bit的命令示例：
+
+```
+chmod +t directory
+```
+
+#### 应用场景和注意事项
+
+- SUID 和 SGID 常用于提高某些程序的权限，如 `passwd` 命令需要临时提升权限以修改用户密码。
+- Sticky Bit常用于共享目录，如 `/tmp` 目录，确保用户只能删除自己创建的文件。
+- 使用特殊权限时需谨慎，避免造成安全漏洞。
