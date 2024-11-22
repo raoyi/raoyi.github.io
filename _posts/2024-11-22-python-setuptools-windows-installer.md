@@ -83,3 +83,5 @@ python setup.py bdist_msi
 ### 引用
 
 - [setuptools详解](https://www.cnblogs.com/xy-bot/p/16994119.html)
+- [setuptools与setup.py/.cfg入门简介](https://zhuanlan.zhihu.com/p/261579357)
+- [Packaging Python Projects](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
