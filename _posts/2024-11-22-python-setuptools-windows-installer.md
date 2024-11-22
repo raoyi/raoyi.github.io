@@ -2,7 +2,7 @@
 layout: post
 title:  python setuptools创建Windows安装程序
 date:   2024-11-22
-tags:   python
+tags:   Python
 ---
 
 要使用 `setuptools` 创建 Windows 安装程序，你可以按照以下步骤操作：
