@@ -43,6 +43,6 @@ winget upgrade --id Microsoft.Powershell
 
 ## 并行使用：
 
-可以并行使用Windows PowerShell 5.1和PowerShell 7。你可以通过开始菜单或Windows Terminal打开PowerShell 7，并使用 $PSVersionTable 命令检查版本。
+可以并行使用Windows PowerShell 5.1和PowerShell 7。你可以通过开始菜单或 `Windows Terminal` 打开PowerShell 7，并使用 `$PSVersionTable` 命令检查版本。
 
 按照这些步骤，你可以顺利地将Windows PowerShell 5升级到PowerShell 7，并享受新版本带来的改进和功能。
