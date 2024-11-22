@@ -80,4 +80,6 @@ python setup.py bdist_msi
 
 以上步骤将帮助你使用setuptools创建Windows安装程序。生成的 `.exe` 或 `.msi` 文件可以被用来在Windows系统上安装你的Python应用程序。
 
-### [setuptools详解](https://www.cnblogs.com/xy-bot/p/16994119.html)
+### 引用
+
+- [setuptools详解](https://www.cnblogs.com/xy-bot/p/16994119.html)
