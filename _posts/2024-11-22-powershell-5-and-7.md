@@ -7,17 +7,17 @@ tags:   powershell
 
 ## 独立安装路径和可执行文件名：
 
-- Windows PowerShell 5.1：$env:WINDIR\System32\WindowsPowerShell\v1.0
-- PowerShell 7：$env:ProgramFiles\PowerShell\7
+- Windows PowerShell 5.1：`$env:WINDIR\System32\WindowsPowerShell\v1.0`
+- PowerShell 7：`$env:ProgramFiles\PowerShell\7`
 
 ## 可执行文件名：
 
-- PowerShell 7：pwsh.exe
-- Windows PowerShell：powershell.exe
+- PowerShell 7：`pwsh.exe`
+- Windows PowerShell：`powershell.exe`
 
 ## 独立的PSModulePath：
 
-Windows PowerShell和PowerShell 7将模块存储在不同的位置。PowerShell 7将这些位置合并到$Env:PSModulePath环境变量中，使得可以同时加载核心模块和桌面模块。
+Windows PowerShell和PowerShell 7将模块存储在不同的位置。PowerShell 7将这些位置合并到 `$Env:PSModulePath` 环境变量中，使得可以同时加载核心模块和桌面模块。
 
 ## .NET版本差异：
 
