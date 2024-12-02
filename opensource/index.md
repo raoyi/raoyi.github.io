@@ -12,7 +12,7 @@ permalink: /opensource/
 
 	目前包含 ping 指定端口 和 开启http服务 功能
 
-- **默认以管理员权限执行脚本 - [PowerShell](https://gitee.com/raoyi/filestack/raw/master/runasadmin/admin.ps1) • [CMD](https://gitee.com/raoyi/filestack/raw/master/runasadmin/admin.bat)**
+- **默认以管理员权限执行脚本 - [PowerShell](https://gitee.com/raoyi/filestack/raw/master/runasadmin/admin.ps1) • [CMD](https://gitee.com/raoyi/filestack/raw/master/runasadmin/admin.bat) • [Python](https://gitee.com/raoyi/filestack/raw/master/runasadmin/admin.py)**
 
 - **浏览器调用电脑摄像头 - [图片版](https://raoyi.net/cam/cam.html) • [视频版](https://raoyi.net/cam/cam-v2.html)**
 
