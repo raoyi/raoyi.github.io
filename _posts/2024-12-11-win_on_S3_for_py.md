@@ -65,7 +65,7 @@ root.mainloop()
 
 `ES_SYSTEM_REQUIRED` 是一个标志，它告诉系统一个线程需要系统保持唤醒状态，因此系统不应该进入睡眠模式。当线程不再需要系统保持唤醒状态时，应该再次调用 `SetThreadExecutionState` 函数，传入 `ES_CONTINUOUS` 标志来清除 `ES_SYSTEM_REQUIRED` 标志。
 
-其他 `ES_*` 标志
+ _其他 `ES_*` 标志：_ 
 
 除了 `ES_CONTINUOUS` 和 `ES_SYSTEM_REQUIRED`，还有其他一些 `ES_*` 标志可以与 `SetThreadExecutionState` 函数一起使用：
 
