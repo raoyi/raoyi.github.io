@@ -2,7 +2,7 @@
 layout: post
 title:  Windows PowerShell 5与PowerShell 7区别
 date:   2024-11-22
-tags:   powershell
+tags:   PowerShell
 ---
 
 ## 独立安装路径和可执行文件名：
