@@ -40,7 +40,6 @@ tags:   Windows CMD PowerShell
 - services.msc：服务
 
 
-- appwiz.cpl：打开“程序和功能”窗口。
 - calc：启动计算器。
 - certmgr.msc：打开证书管理实用程序。
 - charmap：启动字符映射表。
@@ -51,8 +50,6 @@ tags:   Windows CMD PowerShell
 - compmgmt.msc：打开计算机管理。
 - control：打开控制面板。
 - dcomcnfg：打开组件服务。
-- devmgmt.msc：打开设备管理器。
-- desk.cpl：打开显示设置。
 - diskmgmt.msc：打开磁盘管理。
 - dxdiag：运行DirectX诊断工具。
 - eventvwr.msc：打开事件查看器。
