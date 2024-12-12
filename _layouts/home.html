@@ -3,9 +3,14 @@ layout: default
 ---
 
 <div class="home">
-  <nav id="tag-nav">|
+  <nav id="tag-nav">
   {% for tag in site.tags %}
-    <a href="#{{ tag[0] | slugify }}">{{ tag[0] }}</a> |
+    {% unless forloop.last %}
+      <a href="#{{ tag[0] | slugify }}">{{ tag[0] }}</a> |
+    {% endunless %}
+    {% if forloop.last %}
+      <a href="#{{ tag[0] | slugify }}">{{ tag[0] }}</a>
+    {% endif %}
   {% endfor %}
 </nav>
   <hr />
