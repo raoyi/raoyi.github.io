@@ -9,9 +9,11 @@ tags:   Python
 
 写 Python，要套个界面，用 tkinter，
 
-然后发现有点丑，然后找到了 [CustomTkinter](https://customtkinter.tomschimansky.com/)（[GitHub](https://github.com/TomSchimansky/CustomTkinter)），
+发现有点丑，然后找到了 [CustomTkinter](https://customtkinter.tomschimansky.com/)（[GitHub](https://github.com/TomSchimansky/CustomTkinter)），
 
-但，发现 CustomTkinter 没有 Listbox，
+但，
+
+发现 CustomTkinter 没有 Listbox，
 
 接着找到了 [CTkListbox](https://github.com/Akascape/CTkListbox) 这个库，
 
