@@ -16,4 +16,4 @@ permalink: /about/
 
 <a href="https://github.com/raoyi" target="_blank">GitHub</a> & <a href="https://gitee.com/raoyi" target="_blank">Gitee</a>
 
-<a href="https://projecteuler.net" target="_blank"><img src="https://raoyi.net/img/pe.png"></a>
+<a href="https://projecteuler.net" target="_blank"><img src="https://raw.githubusercontent.com/raoyi/raoyi.github.io/refs/heads/main/img/pe.png"></a>
