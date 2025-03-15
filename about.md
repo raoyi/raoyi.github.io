@@ -14,4 +14,4 @@ permalink: /about/
 
 本站发布的软件内容 <b>可以 使用、传播（如用于宣传请注明出处），不可 反编译</b> 对于没有开源的项目，如需源码请联系我
 
-<a href="https://github.com/raoyi" target="_blank"><img src="../img/github-logo.svg" alt="GitHub" width="60" height="60"></a> <a href="https://gitee.com/raoyi" target="_blank"><img src="../img/gitee-logo.svg" alt="Gitee" width="60" height="60"></a> <a href="https://projecteuler.net" target="_blank"><img src="../img/pe.png" alt="ProjectEuler"></a>
+<a href="https://github.com/raoyi" target="_blank"><img src="../img/github-logo.svg" alt="GitHub" width="60" height="60"></a> <a href="https://gitee.com/raoyi" target="_blank"><img src="../img/gitee-logo.svg" alt="Gitee" height="60"></a> <a href="https://projecteuler.net" target="_blank"><img src="../img/pe.png" alt="ProjectEuler"></a>
