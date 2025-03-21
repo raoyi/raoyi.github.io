@@ -2,7 +2,7 @@ name: Download PE Image
 
 on:
   schedule:
-    - cron: '0 16 * * *' # 每天UTC时间午夜执行
+    - cron: '0 16 * * *' # 每天UTC时间16:00执行
   workflow_dispatch: # 允许手动触发
 
 jobs:
@@ -16,13 +16,26 @@ jobs:
     - name: Download image from Project Euler
       run: |
         mkdir -p img
-        curl -o img/pe.png -s https://projecteuler.net/profile/raoyi.png
+        curl -o img/new_pe.png -s https://projecteuler.net/profile/raoyi.png
         
+    - name: Compare images and replace if different
+      run: |
+        # Check if the new image is different from the existing one by comparing hashes
+        if ! cmp -s img/new_pe.png img/pe.png; then
+          mv img/new_pe.png img/pe.png
+          echo "Image has been updated."
+        else
+          rm img/new_pe.png
+          echo "No changes detected in the image."
+          exit 0
+        fi
+
     - name: Commit and push if there are changes
+      if: success() && steps.compare_images.outcome == 'success'
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add img/pe.png
         timestamp=$(date +%s)
-        git commit -m "Update pe.png via GitHub Actions $timestamp" || exit 0
+        git commit -m "Update pe.png via GitHub Actions $timestamp"
         git push
